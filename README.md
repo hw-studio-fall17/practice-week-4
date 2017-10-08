@@ -4,7 +4,7 @@
 
 My cheeseburger with a side of CSS should look like this:
 
-![final-product](/images/cheeseburger.png)
+
 
 * Look at all of the code in `index.html` and `style.css`
 * DO NOT change any code in `index.html`
@@ -14,4 +14,7 @@ My cheeseburger with a side of CSS should look like this:
 
 
 ##### If you finish early...
-* Add a `div` in the html with the `id = fries` and try to style the `div` in your CSS to look like french fries.
+* Change the color of the text to yellow
+* Add more HTML and style it in the CSS to add more toppings to your cheeseburger. Here's a cheeseburger with lettuce and tomato:
+
+![final-product](/images/cheeseburger.png)

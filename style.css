@@ -21,6 +21,7 @@ bottom-bun {
 
 topping {
   text-align: center;
+  margin: 0 auto;
 }
 
 pickle {
@@ -28,20 +29,11 @@ pickle {
   background-color: green;
   padding: 10px;
   margin: 5px;
-  border-radius: 10px
+  border-radius: 10px;
 }
 
-lettuce {
-  background-color: lightgreen;
-  width: 300px;
-  border-radius: 20px 200px;
-  padding: 1px;
-}
-
-tomato {
-  background-color: red;
-  border-radius: 100px;
-  width: 300px;
+pickles  {
+  padding: 0;
 }
 
 cheese {
@@ -54,8 +46,6 @@ hamburger {
   padding: 5px;
 
 }
-
-
 
 /*
 Please write your answers to the questions below each question.
