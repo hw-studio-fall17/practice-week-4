@@ -1,16 +1,16 @@
 # Cheeseburger with a side of CSS
 
-### HELP!, my cheeseburger disappeared! 
+### HELP! my cheeseburger disappeared! 
 
 My cheeseburger with a side of CSS should look like this:
 
 ![final-product](/images/cheeseburger.png)
 
-You can see that there is a lot of code is in `index.html` and  `style.css` file, but the code *is BROKEN* and you need to help me fix it! 
-
-#### IMPORTANT! You will not have to edit any of the HTML! All of your fixes should be in style.css.
-
-#### After fixing your cheeseburger, please answer the questions at the bottom of style.css
+* Look at all of the code in `index.html` and `style.css`
+* You do NOT need to change ANY of the code in index.html
+* Fix the code in `style.css` so that it is working properly
+  * HINT: the code in `style.css` is mostly correct, but the way we are accessing the `classes` and `ids` is wrong
+* After fixing your cheeseburger, please answer the questions at the bottom of style.css
 
 
 ##### If you finish early...
