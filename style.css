@@ -1,0 +1,87 @@
+cheeseburger {
+  width: 300px;
+  margin: 0 auto;
+  color: white;
+}
+
+bun {
+  background-color: #efc08b;
+  width: 300px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+top-bun {
+  border-radius: 40px 40px 5px 5px;
+}
+
+bottom-bun {
+  border-radius: 5px;
+}
+
+topping {
+  text-align: center;
+}
+
+pickle {
+  display: inline-block;
+  background-color: green;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px
+}
+
+lettuce {
+  background-color: lightgreen;
+  width: 300px;
+  border-radius: 20px 200px;
+  padding: 1px;
+}
+
+tomato {
+  background-color: red;
+  border-radius: 100px;
+  width: 300px;
+}
+
+cheese {
+  background-color: orange;
+  width: 300px;
+}
+
+hamburger {
+  background-color: brown;
+  padding: 5px;
+
+}
+
+
+
+/*
+Please write your answers to the questions below each question.
+1. What's the difference between classes and ids?
+
+
+
+
+
+2. Why is topping a class, but pickle is an id?
+
+
+
+
+
+
+3. In your CSS when did you use . versus # ?
+
+
+
+
+
+
+*/
+
+
+
+
+
