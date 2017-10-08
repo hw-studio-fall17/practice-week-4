@@ -4,7 +4,7 @@
 
 My cheeseburger with a side of CSS should look like this:
 
-
+![cheeseburger](/images/cheeseburger.png)
 
 * Look at all of the code in `index.html` and `style.css`
 * DO NOT change any code in `index.html`
@@ -17,4 +17,4 @@ My cheeseburger with a side of CSS should look like this:
 * Change the color of the text to yellow
 * Add more HTML and style it in the CSS to add more toppings to your cheeseburger. Here's a cheeseburger with lettuce and tomato:
 
-![final-product](/images/cheeseburger.png)
+![loaded-cheeseburger](/images/loaded-cheeseburger.png)
