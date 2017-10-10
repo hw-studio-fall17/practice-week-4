@@ -1,47 +1,54 @@
-cheeseburger {
+
+
+body{
+  background-image: url("http://dreamicus.com/data/paradise/paradise-02.jpg");
+  background-repeat: repeat-x;
+}
+
+#cheeseburger {
   width: 300px;
   margin: 0 auto;
   color: white;
 }
 
-bun {
+.bun {
   background-color: #efc08b;
   width: 300px;
   padding-bottom: 10px;
   text-align: center;
 }
 
-top-bun {
+#top-bun {
   border-radius: 40px 40px 5px 5px;
 }
 
-bottom-bun {
+#bottom-bun {
   border-radius: 5px;
 }
 
-topping {
+.topping {
   text-align: center;
   margin: 0 auto;
 }
 
-pickle {
+.pickle {
   display: inline-block;
-  background-color: green;
+  background-color: lightgreen;
   padding: 10px;
   margin: 5px;
   border-radius: 10px;
 }
 
-pickles  {
+#pickles  {
   padding: 0;
 }
 
-cheese {
+#cheese {
   background-color: orange;
   width: 300px;
 }
 
-hamburger {
+#hamburger {
   background-color: brown;
   padding: 5px;
 
